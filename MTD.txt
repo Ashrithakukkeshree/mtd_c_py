@@ -11,4 +11,18 @@ cd //change directory
 $ git pull origin main
 //updated repo
 
+to make our computer recognise our git 
+2 commands
+->git config --global user.name "Ashrithakukkeshree"
+->git config --global user.email "ashrithakukkeshree@gmail.com"
+
+-> copy pat 
+$ git add .
+// Git will mark(stage) all the files that need to be updated
+
+$ git commit -m "notes file of the mtd training is added"
+// Git creates an object that will inlclude all the files to be uploaded and also it is secured (encription)
+
+$ git push origin main
+// the object now is sent to the server (the remote repo is updated)
 
