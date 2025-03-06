@@ -1,0 +1,14 @@
+mtd competive programing training
+
+DAY 1 THRUSDAY 6/3/25
+
+IMPORTANT GIT COMMAND 
+
+GIT STATUS
+git clone https://github.com/neelmyna/vvce_mar25 //download repo
+cd //change directory
+
+$ git pull origin main
+//updated repo
+
+
