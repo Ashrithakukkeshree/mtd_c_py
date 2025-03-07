@@ -26,3 +26,13 @@ $ git commit -m "notes file of the mtd training is added"
 $ git push origin main
 // the object now is sent to the server (the remote repo is updated)
 
+
+DAY 2
+Arthematic oerators : +-*/
+all the binary are operators 
+i/p are numbers
+o/p is number 
+used with infix notation 
+to perform any arthematic operation , DT of both the operand must be same
+
+ 
