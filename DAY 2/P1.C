@@ -2,7 +2,7 @@
 int main()
 {
     int average =0;
-    puts ("enter a number to chcek sqaure:");
+    puts ("enter a number to check avg:");
     scanf("%d",&average);
     if (average<0&&average<=49)
     puts("result is fail");
