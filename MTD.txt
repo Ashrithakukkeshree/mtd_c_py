@@ -34,5 +34,28 @@ i/p are numbers
 o/p is number 
 used with infix notation 
 to perform any arthematic operation , DT of both the operand must be same
+-----------------------------------------------------------------------------------------
+ DAY4 THRUSDAY 13-03-2025
 
- 
+EXCEPTIONS 
+no implicit type casting
+
+ARTHEMATIC OPERATOR IN PYTHON
++ - * / // ** %
+++
+--
+
+range()
+
+range(10)             [0,10]
+range (2,10)          [2,9]
+range (1,10,3)        
+range (1,10,3)
+range(10,-5,-2)
+
+-----------------------------------------------------------
+
+step:read a string
+    capture only digits
+    remove duplicates #list to set then sort reverse = true then string join into number
+    form biggest possible number using
