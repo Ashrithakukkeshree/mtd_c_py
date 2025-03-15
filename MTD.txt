@@ -59,3 +59,18 @@ step:read a string
     capture only digits
     remove duplicates #list to set then sort reverse = true then string join into number
     form biggest possible number using
+
+
+
+queries:(do in cmd prompt)      
+select database();
+//this query lists the current db we are install
+show database();
+//this query lists the all db we are install
+create database gana_db;
+//this query lists creates a db with the given name
+use gana_db;
+//this query switches into the given db
+select database() as currrent_db
+//this lists the current db we are in and it given the given heading (alias)
+entity name : person(model)
